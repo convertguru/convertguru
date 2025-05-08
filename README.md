@@ -1,4 +1,4 @@
-![convert-guru header image](convert-guru-header2.png)
+![convert-guru header image](convert-guru-header2b.png)
 
 Visit us [https://convert.guru](https://convert.guru/)
 
