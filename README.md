@@ -1,6 +1,6 @@
 ![convert-guru header image](convert-guru-header2b.png)
 
-Visit us [https://convert.guru](https://convert.guru/) &nbsp; &nbsp; ✨ ✨ ✨ &nbsp; &nbsp; Feedback is welcome 😃
+<p style="text-align:center">Visit us [https://convert.guru](https://convert.guru/) &nbsp; &nbsp; ✨ ✨ ✨ &nbsp; &nbsp; Feedback is welcome 😃</p>
 
 
 
