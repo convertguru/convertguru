@@ -1,6 +1,6 @@
 ![convert-guru header image](convert-guru-header2b.png)
 
-Visit us [https://convert.guru](https://convert.guru/)   ✨ ✨ ✨   Feedback is welcome 😃 1|nbsp|2 |nbsp| 3 \xa0 4 \u202f 5 <0xa0> 6   7
+Visit us [https://convert.guru](https://convert.guru/)   ✨ ✨ ✨   Feedback is welcome 😃 1|nbsp|2 |nbsp| 3 \xa0 4 \u202f 5 <0xa0> 6   7 &nbsp; 8
 
 
 
